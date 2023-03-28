@@ -1,4 +1,61 @@
+@media screen and (max-width:992px){
+    header{
+        display: flex;
+        height: 90px;
 
+    }
+ 
+    
+
+ 
+ 
+    .sectionTextos {
+        height: 420px;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .h4Expertos{
+        font-size: 40px;
+    }
+    .ParrafoLorem{
+        font-size: 15px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items:center;
+    }
+
+    .datos{
+       font-size:20px;
+       height: 110px;
+    }
+    .correo {
+        width: 200px;
+        height: 32px;
+        font-size: 15px;
+        border-radius: 16px;
+        text-align: center;
+    }
+    .boton {
+        width: 100px;
+        height: 38px;
+        border-radius: 12px;
+        font-size: 14px;
+    }
+    .contenedores{
+        height:  600px;
+    }
+
+    footer {
+        height: 50px;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+}
 
    /* --------------------------------------------------------*/
    @media screen and (max-width:772px){
