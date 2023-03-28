@@ -28,7 +28,14 @@ header {
 
 ul{
     display: flex;
+    width: 100%;
+    
 }
+ul li{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+   }
 a {
     display: flex;
     margin: 10px;

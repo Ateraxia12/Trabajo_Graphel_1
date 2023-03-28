@@ -5,31 +5,38 @@
         height: 90px;
 
     }
-    .h1Inicio{
+    .h1Inicio {
         font-size: 20px;
         display: flex;
         justify-content: center;
         text-align: center;
         color: aliceblue;
-        gap: 10px;
+        width: 322px;
     }
     .span1{
         color:rgb(74, 161, 243);
     }
-    .divh1{
+    .divh1 {
         height: 100%;
+        width: 83px;
     }
+   ul li{
+    list-style: none;
+   }
     a {
         font-size: 12px;
-        padding: 11%;
+        
         margin: 0px;
     }
     .nav1{
         display:flex;
         justify-content:flex-start;
     }
-    ul{
+   
+    ul {
         justify-content: flex-end;
+        gap: 10px;
+        padding-right: 69px;
     }
     /* ------------------------------------ */
     .sectionTextos {
